@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1460363133 source:c:\users\alex\desktop\olimpiada\oop lab 6-7\main.cpp
+	<iostream>
+	"UI/meniu.h"
+	"Teste/tests.h"
+	<assert.h>
+	<algorithm>
+
+1460363166 c:\users\alex\desktop\olimpiada\oop lab 6-7\ui\meniu.h
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	"../Controller/controller.h"
+	<algorithm>
+
+1460317999 source:c:\users\alex\desktop\olimpiada\oop lab 6-7\ui\meniu.cpp
+	"meniu.h"
+
+1459430413 source:c:\users\alex\desktop\olimpiada\oop lab 6-7\domain\medicament.cpp
+
+1460283579 c:\users\alex\desktop\olimpiada\oop lab 6-7\controller\controller.h
+	"../Repository/Repository.h"
+
+1460362926 c:\users\alex\desktop\olimpiada\oop lab 6-7\utilities\vectordinamic.h
+
+1459877870 c:\users\alex\desktop\olimpiada\oop lab 6-7\domain\medicament.h
+	<string.h>
+
+1460363140 source:c:\users\alex\desktop\olimpiada\oop lab 6-7\teste\tests.cpp
+	"../Controller/controller.h"
+	<string.h>
+	<iostream>
+
+1460283482 c:\users\alex\desktop\olimpiada\oop lab 6-7\repository\repository.h
+	"../Domain/medicament.h"
+	"../Utilities/VectorDinamic.h"
+
+1460317087 c:\users\alex\desktop\olimpiada\oop lab 6-7\teste\tests.cpp
+	"../Controller/controller.h"
+
+1460317226 c:\users\alex\desktop\olimpiada\oop lab 6-7\teste\tests.h
+
+1459430413 source:c:\users\alex\desktop\programare\faculta\oop lab 8-9\domain\medicament.cpp
+
+1460363133 source:c:\users\alex\desktop\programare\faculta\oop lab 8-9\main.cpp
+	<iostream>
+	"UI/meniu.h"
+	"Teste/tests.h"
+	<assert.h>
+	<algorithm>
+
+1460642855 c:\users\alex\desktop\programare\faculta\oop lab 8-9\ui\meniu.h
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	"../Controller/controller.h"
+	<algorithm>
+
+1460645879 c:\users\alex\desktop\programare\faculta\oop lab 8-9\controller\controller.h
+	"../Repository/Repository.h"
+	<stdlib.h>
+	<time.h>
+
+1460577134 c:\users\alex\desktop\programare\faculta\oop lab 8-9\repository\repository.h
+	"../Domain/medicament.h"
+	"../Utilities/VectorDinamic.h"
+	<vector>
+	<iterator>
+	<algorithm>
+
+1460567231 c:\users\alex\desktop\programare\faculta\oop lab 8-9\domain\medicament.h
+	<string.h>
+
+1460362926 c:\users\alex\desktop\programare\faculta\oop lab 8-9\utilities\vectordinamic.h
+
+1460317226 c:\users\alex\desktop\programare\faculta\oop lab 8-9\teste\tests.h
+
+1460569087 source:c:\users\alex\desktop\programare\faculta\oop lab 8-9\teste\tests.cpp
+	"../Controller/controller.h"
+	<string.h>
+	<iostream>
+
+1460577491 source:c:\users\alex\desktop\programare\faculta\oop lab 8-9\ui\meniu.cpp
+	"meniu.h"
+

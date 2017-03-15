@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1459426813 source:c:\users\alex\desktop\programare\faculta\oop lab 8-9\domain\medicament.cpp
+
+1460359533 source:c:\users\alex\desktop\programare\faculta\oop lab 8-9\main.cpp
+	<iostream>
+	"UI/meniu.h"
+	"Teste/tests.h"
+	<assert.h>
+	<algorithm>
+
+1461077216 c:\users\alex\desktop\programare\faculta\oop lab 8-9\ui\meniu.h
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	"../Controller/controller.h"
+	<algorithm>
+
+1461077178 c:\users\alex\desktop\programare\faculta\oop lab 8-9\controller\controller.h
+	"../Repository/Repository.h"
+	"../Undo/Undo.h"
+	<stdlib.h>
+	<time.h>
+
+1461077359 c:\users\alex\desktop\programare\faculta\oop lab 8-9\repository\repository.h
+	"../Domain/medicament.h"
+	"../Utilities/VectorDinamic.h"
+	<fstream>
+	<vector>
+	<iterator>
+	<algorithm>
+
+1460563631 c:\users\alex\desktop\programare\faculta\oop lab 8-9\domain\medicament.h
+	<string.h>
+
+1460359326 c:\users\alex\desktop\programare\faculta\oop lab 8-9\utilities\vectordinamic.h
+
+1460313626 c:\users\alex\desktop\programare\faculta\oop lab 8-9\teste\tests.h
+
+1461074548 source:c:\users\alex\desktop\programare\faculta\oop lab 8-9\teste\tests.cpp
+	"../Controller/controller.h"
+	<string.h>
+	<iostream>
+
+1461054647 source:c:\users\alex\desktop\programare\faculta\oop lab 8-9\ui\meniu.cpp
+	"meniu.h"
+
+1461054553 c:\users\alex\desktop\programare\faculta\oop lab 8-9\undo\undo.h
+	"../Repository/Repository.h"
+	"../Domain/medicament.h"
+
+1459426813 source:c:\users\alex\desktop\git\oop lab 8-9\domain\medicament.cpp
+
+1460359533 source:c:\users\alex\desktop\git\oop lab 8-9\main.cpp
+	<iostream>
+	"UI/meniu.h"
+	"Teste/tests.h"
+	<assert.h>
+	<algorithm>
+
+1461077216 c:\users\alex\desktop\git\oop lab 8-9\ui\meniu.h
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	"../Controller/controller.h"
+	<algorithm>
+
+1461077178 c:\users\alex\desktop\git\oop lab 8-9\controller\controller.h
+	"../Repository/Repository.h"
+	"../Undo/Undo.h"
+	<stdlib.h>
+	<time.h>
+
+1461077359 c:\users\alex\desktop\git\oop lab 8-9\repository\repository.h
+	"../Domain/medicament.h"
+	"../Utilities/VectorDinamic.h"
+	<fstream>
+	<vector>
+	<iterator>
+	<algorithm>
+
+1460563631 c:\users\alex\desktop\git\oop lab 8-9\domain\medicament.h
+	<string.h>
+
+1460359326 c:\users\alex\desktop\git\oop lab 8-9\utilities\vectordinamic.h
+
+1461054553 c:\users\alex\desktop\git\oop lab 8-9\undo\undo.h
+	"../Repository/Repository.h"
+	"../Domain/medicament.h"
+
+1460313626 c:\users\alex\desktop\git\oop lab 8-9\teste\tests.h
+
+1461074548 source:c:\users\alex\desktop\git\oop lab 8-9\teste\tests.cpp
+	"../Controller/controller.h"
+	<string.h>
+	<iostream>
+
+1461054647 source:c:\users\alex\desktop\git\oop lab 8-9\ui\meniu.cpp
+	"meniu.h"
+
